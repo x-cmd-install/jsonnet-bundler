@@ -7,7 +7,7 @@ about:
   head: 1ed9abf
   archived: false
   latestVersion: v0.6.0
-  collectedAt: 2026-09-04T19:22:18Z
+  collectedAt: 2026-09-04T21:10:29Z
 timeline:
   created: 2018-04-24
   lastCommit: 2025-10-02
@@ -83,6 +83,64 @@ total:
   openIssue: 45
   commit: 211
 ---
+path: /home/runner/.x-repo/github.com/jsonnet-bundler/jsonnet-bundler
+collectedAt: 2026-09-04T21:10:29Z
+loc:
+  Go:
+    code: 162733
+    comments: 18951
+    blanks: 18167
+    files: 380
+  AssemblyGAS:
+    code: 1924
+    comments: 235
+    blanks: 828
+    files: 22
+  Sh:
+    code: 953
+    comments: 48
+    blanks: 44
+    files: 6
+  Makefile:
+    code: 77
+    comments: 4
+    blanks: 25
+    files: 2
+  C:
+    code: 28
+    comments: 7
+    blanks: 10
+    files: 1
+  Json:
+    code: 25
+    comments: 0
+    blanks: 0
+    files: 1
+  Yaml:
+    code: 19
+    comments: 6
+    blanks: 7
+    files: 1
+  Dockerfile:
+    code: 3
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 895
+    blanks: 378
+    files: 12
+  Text:
+    code: 0
+    comments: 48
+    blanks: 0
+    files: 1
+total:
+  code: 166005
+  comments: 20216
+  blanks: 19513
+  files: 427
 ---
 date: "2026-08-24"
 repo:
