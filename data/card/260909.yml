@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.0"
   latestRelease: "v0.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:24:19Z
+  collectedAt: 2026-09-09T19:45:54Z
 timeline:
   created: 2018-04-24
   lastCommit: 2025-10-02
@@ -86,7 +86,7 @@ total:
   commit: 211
 ---
 path: /home/runner/.x-repo/github.com/jsonnet-bundler/jsonnet-bundler
-collectedAt: 2026-09-09T05:24:21Z
+collectedAt: 2026-09-09T19:45:56Z
 loc:
   Go:
     code: 162733
