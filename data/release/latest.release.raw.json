@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7992752,
       "digest": null,
-      "download_count": 7490,
+      "download_count": 7514,
       "created_at": "2024-08-23T10:27:48Z",
       "updated_at": "2024-08-23T10:27:51Z",
       "browser_download_url": "https://github.com/jsonnet-bundler/jsonnet-bundler/releases/download/v0.6.0/jb-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7679810,
       "digest": null,
-      "download_count": 1941,
+      "download_count": 1946,
       "created_at": "2024-08-23T10:27:51Z",
       "updated_at": "2024-08-23T10:27:53Z",
       "browser_download_url": "https://github.com/jsonnet-bundler/jsonnet-bundler/releases/download/v0.6.0/jb-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7803032,
       "digest": null,
-      "download_count": 1714295,
+      "download_count": 1719289,
       "created_at": "2024-08-23T10:27:53Z",
       "updated_at": "2024-08-23T10:27:55Z",
       "browser_download_url": "https://github.com/jsonnet-bundler/jsonnet-bundler/releases/download/v0.6.0/jb-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7536792,
       "digest": null,
-      "download_count": 39555,
+      "download_count": 39677,
       "created_at": "2024-08-23T10:27:56Z",
       "updated_at": "2024-08-23T10:27:58Z",
       "browser_download_url": "https://github.com/jsonnet-bundler/jsonnet-bundler/releases/download/v0.6.0/jb-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 8098816,
       "digest": null,
-      "download_count": 554,
+      "download_count": 555,
       "created_at": "2024-08-23T10:27:58Z",
       "updated_at": "2024-08-23T10:28:00Z",
       "browser_download_url": "https://github.com/jsonnet-bundler/jsonnet-bundler/releases/download/v0.6.0/jb-windows-amd64.exe"
