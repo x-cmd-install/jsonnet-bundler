@@ -4,7 +4,7 @@
   binname: jsonnet-bundler
   visiblename: jsonnet-bundler
   version: 0.6.0
-  origversion: 0.6.0-r16
+  origversion: 0.6.0-r17
   status: newest
   summary: Jsonnet package manager
   maintainers:
